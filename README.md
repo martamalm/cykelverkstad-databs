@@ -5,6 +5,11 @@ Detta projekt genomfördes som en del av mina studier inom databasutveckling. Up
 
 Databasen hanterar information om kunder, cyklar, mekaniker, leverantörer, artiklar och arbetsordrar.
 
+## ER-diagram
+
+Nedan visas databasens struktur och relationerna mellan tabellerna.
+![ER-diagram över databasen](er-diagram.png.png)
+
 ## Tekniker
 - PostgreSQL
 - SQL
